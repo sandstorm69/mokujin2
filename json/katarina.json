@@ -158,13 +158,13 @@
         "Start up frame": "14"
     },
     {
-        "Block frame": "+10 (in HAR)",
+        "Block frame": "-1",
         "Command": "3,3,3,f",
-        "Counter hit frame": "-1",
+        "Counter hit frame": "+10",
         "Damage": "9,4,4",
         "Gif": "https://gfycat.com/OrnateImpressionableCatfish.gif",
-        "Hit frame": "-1",
-        "Hit level": "m,m,m,HAR",
+        "Hit frame": "+10",
+        "Hit level": "m,m,m (HAR)",
         "Notes": "",
         "Start up frame": "14"
     },

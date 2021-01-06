@@ -1503,10 +1503,10 @@
     {
         "Block frame": "-24",
         "Command": "TCH f+1+2",
-        "Counter hit frame": "+31",
+        "Counter hit frame": "KND",
         "Damage": "35",
         "Gif": "https://gfycat.com/dimwittedconventionalambushbug.gif",
-        "Hit frame": "-2",
+        "Hit frame": "KND",
         "Hit level": "m",
         "Notes": "",
         "Start up frame": "20~25"

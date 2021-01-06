@@ -1369,7 +1369,7 @@
         "Hit frame": "Launch (S!)",
         "Hit level": "h,(LFF)",
         "Notes": "Homing,Screw,Power Crush",
-        "Start up frame": "27"
+        "Start up frame": "27 pc8~"
     },
     {
         "Block frame": "-8",

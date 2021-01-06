@@ -1583,7 +1583,7 @@
         "Hit frame": "KND",
         "Hit level": "l(TJ),h",
         "Notes": "",
-        "Start up frame": "36~37 9~35"
+        "Start up frame": "36~37 js9~35"
     },
     {
         "Block frame": "-13~-10s",
@@ -2978,7 +2978,7 @@
         "Hit frame": "Launch (JG)",
         "Hit level": "m(TJ)",
         "Notes": "",
-        "Start up frame": "17~19a (18~) js9~"
+        "Start up frame": "17~19a js9~"
     },
     {
         "Alias": [
