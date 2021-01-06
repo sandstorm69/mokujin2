@@ -758,13 +758,13 @@
     },
     {
         "Block frame": "-82~-73",
-        "Command": "f,F+3+4 (first part)",
+        "Command": "f,F+3+4",
         "Counter hit frame": "KND",
         "Damage": "25",
         "Gif": "https://gfycat.com/UnhealthyScaryImago.gif",
         "Hit frame": "KND",
         "Hit level": "m",
-        "Notes": "",
+        "Notes": "also exist: f,F+3+4 (Second part)",
         "Start up frame": "21~30 (22~) js20~"
     },
     {
