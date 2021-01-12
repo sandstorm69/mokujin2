@@ -1377,7 +1377,7 @@
     {
         "Block frame": "0",
         "Command": "3,1,2",
-        "Counter hit frame": "Launch",
+        "Counter hit frame": "+8",
         "Damage": "11,12,20",
         "Gif": "https://gfycat.com/abandonedpoisedhamadryad.gif",
         "Hit frame": "+8",
